@@ -5,4 +5,4 @@ Validating Twitch request
 
 ・Add your accounts in tokens.txt
 
-・Join https://discord.gg/KAgSf3pwjE for more cool things!
+・Join https://discord.gg/KAgSf3pwjE for similar items like this.
