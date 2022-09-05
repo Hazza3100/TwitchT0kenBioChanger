@@ -4,5 +4,3 @@ This is a simple Twitch T0ken Bio Changer
 Validating a request
 
 ・Add your accounts in tokens.txt
-
-・Join https://discord.gg/phts for similar items like this.
